@@ -16,7 +16,6 @@ This project focuses on web scraping and data analysis, leveraging techniques to
 - **Python**: The primary programming language used for web scraping, data analysis, and visualization.
 - **Splinter**: A Python library for automated browser interaction.
 - **Beautiful Soup**: A Python library for parsing HTML and XML documents.
-- *(Add any additional technologies/tools as needed)*
 
 ## Getting Started
 1. Clone the repository to your local machine.
@@ -27,7 +26,6 @@ This project focuses on web scraping and data analysis, leveraging techniques to
     ```
     pip install -r requirements.txt
     ```
-3. *(Add any additional setup instructions as needed)*
 
 ## Usage
 *(Provide instructions on how to use your project, including examples or sample code snippets. This section should guide users on how to run the web scraping and data analysis processes.)*
