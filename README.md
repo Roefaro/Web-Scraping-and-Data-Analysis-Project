@@ -1,4 +1,4 @@
-Great! Based on the background you provided, here's a draft for your README:
+Challenge 11
 
 ---
 
@@ -38,13 +38,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 2. Create a new branch for your feature or fix.
 3. Make your changes and commit them.
 4. Push to your fork and submit a pull request.
-
-## License
-*(Specify the license under which your project is released, e.g., MIT License, Apache License, etc.)*
-
-## Acknowledgments
-*(Optionally, acknowledge any individuals, projects, or resources that have inspired or supported your work.)*
-
----
-
-Feel free to customize this README further to fit the specific details and requirements of your project. Let me know if you need any further assistance!
